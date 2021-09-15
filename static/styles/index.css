@@ -15,9 +15,7 @@ h1, p, input {
     margin-top: 20px;
 }
 
-#submitButton:hover {
-    cursor: pointer;
-}
+
 
 #speechTranscriptContainer {
     margin-top: 20px;
